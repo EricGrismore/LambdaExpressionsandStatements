@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\JavaScript\CIT190\LambdaExpressionsandStatements\LambdaExpressionsandStatements\obj\Debug\net6.0\LambdaExpressionsandStatements.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\JavaScript\CIT190\LambdaExpressionsandStatements\LambdaExpressionsandStatements\obj\Debug\net6.0\LambdaExpressionsandStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\JavaScript\CIT190\LambdaExpressionsandStatements\LambdaExpressionsandStatements\obj\Debug\net6.0\LambdaExpressionsandStatements.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\JavaScript\CIT190\LambdaExpressionsandStatements\LambdaExpressionsandStatements\obj\Debug\net6.0\LambdaExpressionsandStatements.AssemblyInfo.cs
+C:\Users\acer\Desktop\JavaScript\CIT190\LambdaExpressionsandStatements\LambdaExpressionsandStatements\obj\Debug\net6.0\LambdaExpressionsandStatements.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\JavaScript\CIT190\LambdaExpressionsandStatements\LambdaExpressionsandStatements\bin\Debug\net6.0\LambdaExpressionsandStatements.exe
+C:\Users\acer\Desktop\JavaScript\CIT190\LambdaExpressionsandStatements\LambdaExpressionsandStatements\bin\Debug\net6.0\LambdaExpressionsandStatements.deps.json
+C:\Users\acer\Desktop\JavaScript\CIT190\LambdaExpressionsandStatements\LambdaExpressionsandStatements\bin\Debug\net6.0\LambdaExpressionsandStatements.runtimeconfig.json
+C:\Users\acer\Desktop\JavaScript\CIT190\LambdaExpressionsandStatements\LambdaExpressionsandStatements\bin\Debug\net6.0\LambdaExpressionsandStatements.dll
+C:\Users\acer\Desktop\JavaScript\CIT190\LambdaExpressionsandStatements\LambdaExpressionsandStatements\bin\Debug\net6.0\LambdaExpressionsandStatements.pdb
+C:\Users\acer\Desktop\JavaScript\CIT190\LambdaExpressionsandStatements\LambdaExpressionsandStatements\obj\Debug\net6.0\LambdaExpressionsandStatements.dll
+C:\Users\acer\Desktop\JavaScript\CIT190\LambdaExpressionsandStatements\LambdaExpressionsandStatements\obj\Debug\net6.0\refint\LambdaExpressionsandStatements.dll
+C:\Users\acer\Desktop\JavaScript\CIT190\LambdaExpressionsandStatements\LambdaExpressionsandStatements\obj\Debug\net6.0\LambdaExpressionsandStatements.pdb
+C:\Users\acer\Desktop\JavaScript\CIT190\LambdaExpressionsandStatements\LambdaExpressionsandStatements\obj\Debug\net6.0\LambdaExpressionsandStatements.genruntimeconfig.cache
+C:\Users\acer\Desktop\JavaScript\CIT190\LambdaExpressionsandStatements\LambdaExpressionsandStatements\obj\Debug\net6.0\ref\LambdaExpressionsandStatements.dll
